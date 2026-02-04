@@ -1,10 +1,6 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/49ad0327-3cc5-4e92-b762-cc9198a1d99b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/681f2b38-f90a-4904-8826-e90752dbd01d" />![Hi! I'm Mai](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Mai&textBg=false)
+![Hi! I'm Mai](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Mai&textBg=false) ## 🐾 Hi Mai [![gitanimals](https://gitanimals.org/api/maisiyy)](https://github.com/git-goods/gitanimals)
 
-## 👩‍💻 About Me
-- 🌱 Currently learning **Cloud Computing & Data Visualization**
-- 💡 Interested in **AI, Web Development, and 3D Graphics**
-- 🎨 Love combining **design + code** to build creative projects
-- 📫 Reach me at: [maisiyy04@gmail.com](mailto:maisiyy04@gmail.com)
+
 
 ---
 
