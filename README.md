@@ -1,11 +1,7 @@
-markdown
 <!-- Animated Typing Header with Neon Glow -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&width=600&lines=✨+Hi!+I'm+Mai;🚀+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<!-- Gitanimals Line Mode with Unicorn -->
-## ✨ Glowing Unicorn
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/maisiyy?pet-id=UNICORN&contribution-view=false" width="1000" 
+
 
 ---
 
