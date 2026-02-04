@@ -2,7 +2,7 @@
 [![gitanimals](https://gitanimals.org/api/maisiyy)](https://github.com/git-goods/gitanimals)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/maisiyy?pet-id=UNICORN&contribution-view=false" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/maisiyy?pet-id=0.001&contribution-view=false" width="1000" height="120"/>
 </a>
 
 ---
