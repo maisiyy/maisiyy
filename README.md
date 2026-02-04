@@ -1,4 +1,4 @@
-![Hi! I'm Mai](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Mai&textBg=false) ## 🐾 Hi Mai [![gitanimals](https://gitanimals.org/api/maisiyy)](https://github.com/git-goods/gitanimals)
+<img src="./docs/logo.svg" width="30000"/>
 
 
 
