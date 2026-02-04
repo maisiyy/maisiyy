@@ -1,4 +1,4 @@
-![Hi! I'm Mai](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Mai&textBg=false)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/49ad0327-3cc5-4e92-b762-cc9198a1d99b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/681f2b38-f90a-4904-8826-e90752dbd01d" />![Hi! I'm Mai](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Mai&textBg=false)
 
 ## 👩‍💻 About Me
 - 🌱 Currently learning **Cloud Computing & Data Visualization**
@@ -37,16 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_looker/google_looker-icon.svg" width="45" height="45" alt="Looker Studio"/>
+  <img src="https://github.com/user-attachments/assets/d8c8e10c-3502-4af0-aa7f-dd246d08dcda" width="45" height="45" alt="Looker Studio"/>
+
 </p>
 
 ---
-
-## 📊 GitHub Stats
-![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=maisiyy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maisiyy&layout=compact&theme=radical)
-
----
-
-## 🎵 Fun Fact
-I love exploring **3D visualization** and experimenting with creative coding projects!
