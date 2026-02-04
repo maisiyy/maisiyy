@@ -1,5 +1,11 @@
-<!-- Animated Typing Header with Neon Glow -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&width=600&lines=✨+Hi!+I'm+Mai;🚀+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+![Mai Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=✨%20Hi!%20I'm%20Mai%20✨&fontSize=40&fontColor=FFFFFF&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&width=600&lines=🚀+Welcome+to+my+GitHub;💡+Exploring+Cloud+%26+3D+Visualization;🌟+Always+Learning!)](https://git.io/typing-svg)
+
+![Glowing Badge](https://img.shields.io/badge/✨-Neon%20Glow-FF00FF?style=for-the-badge)
+![Glowing Badge](https://img.shields.io/badge/🚀-Energy-00FFFF?style=for-the-badge)
+![Glowing Badge](https://img.shields.io/badge/🌟-Creativity-39FF14?style=for-the-badge)
+
 
 
 
