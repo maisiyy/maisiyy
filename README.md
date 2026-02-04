@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&width=600&lines=🚀+Welcome+to+my+GitHub;💡+Exploring+Cloud+%26+3D+Visualization;🌟+Always+Learning!)](https://git.io/typing-svg)
 
-![Glowing Badge](https://img.shields.io/badge/✨-Neon%20Glow-FF00FF?style=for-the-badge)
-![Glowing Badge](https://img.shields.io/badge/🚀-Energy-00FFFF?style=for-the-badge)
-![Glowing Badge](https://img.shields.io/badge/🌟-Creativity-39FF14?style=for-the-badge)
-
-
-
-
 ---
 
 ## 🚀 Tools & Technologies
