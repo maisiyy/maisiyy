@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Hi!+I'm+Mai;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+![Mai's Profile Views](https://komarev.com/ghpvc/?username=maisiyy&color=blueviolet&style=for-the-badge)
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{maisiyy}" width="1000" height="120"/>
