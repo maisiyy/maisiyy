@@ -1,6 +1,5 @@
-![Mai Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=✨%20Hi!%20I'm%20Mai%20✨&fontSize=40&fontColor=FFFFFF&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&width=600&lines=🚀+Welcome+to+my+GitHub;💡+Exploring+Cloud+%26+3D+Visualization;🌟+Always+Learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&width=600&lines=🚀+Welcome+to+my+GitHub;🌟+Always+Learning!)](https://git.io/typing-svg)
 
 ---
 
